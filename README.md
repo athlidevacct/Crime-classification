@@ -25,11 +25,12 @@ Explanation of the data fields is as follows:
 
 10. Y- Latitude
 
+
 ## Evaluation
 
 The result are evaluated using the multi-class logarithmic loss. The formula is here:
 
-
+![Log Loss](logloss.png)
 
 
 Where N is the number of cases in the test set, M is the number of class labels.
@@ -39,7 +40,10 @@ Log is the natural logarithm, yij is 1 if case i is in label j and 0 otherwise, 
 
 ## Development setup
 
-Describe how to install all development dependencies and how to run an automated test-suite of some kind. Potentially do this for multiple platforms.
+Pyspark Installation in Jupyter Notebook
+
+https://changhsinlee.com/install-pyspark-windows-jupyter/
+
 
 
 
