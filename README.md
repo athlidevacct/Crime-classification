@@ -1,4 +1,4 @@
-# Crime Classification
+﻿# Crime Classification
 > Use pyspark and scikit-learn to classify the crime into 30 categories.
 
 ## Data
@@ -40,9 +40,14 @@ Log is the natural logarithm, yij is 1 if case i is in label j and 0 otherwise, 
 
 ## Development setup
 
-Pyspark Installation in Jupyter Notebook
+Pyspark Installation
 
 https://changhsinlee.com/install-pyspark-windows-jupyter/
+
+Folium Installation
+
+https://python-visualization.github.io/folium/installing.html#installation
+
 
 
 
