@@ -1,5 +1,5 @@
 ﻿# Crime Classification
-> Use pyspark and scikit-learn to classify the crime into 30 categories.
+> Use pyspark to classify the crime into 30 categories.
 
 ## Data
 
