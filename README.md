@@ -27,7 +27,7 @@ Explanation of the data fields is as follows:
 
 ## Model Training
 
-Logistic Regression
+Logistic Regression  
 Decision Tree
 
 ## Evaluation
