@@ -1,5 +1,5 @@
 ﻿# Crime Classification
-> Use pyspark to classify the crime into 30 categories.
+> Using Pyspark to classify the crime into 30 categories.
 
 ## Data
 
@@ -25,6 +25,10 @@ Explanation of the data fields is as follows:
 
 10. Y- Latitude
 
+## Model Training
+
+Logistic Regression
+Decision Tree
 
 ## Evaluation
 
